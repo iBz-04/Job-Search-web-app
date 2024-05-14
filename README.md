@@ -8,7 +8,7 @@ This is the front-end & Ui of a job search web app where users can search and ap
 
 ## Tech Stack
 
-**Client:** React
+**Client:** React, Tailwind, HTML, CSS
 
 ## Run Locally
 
